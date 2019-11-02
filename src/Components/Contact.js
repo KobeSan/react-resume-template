@@ -74,7 +74,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <a target='_blank' href={`mailto:baptistegislot@gmail.com?subject=${this.state.contactSubject}&body=${this.state.contactMessage}`}><button type='button' className="mailto">Submit</button></a>
+                     <a target='_blank' href={`mailto:${email}?subject=${this.state.contactSubject}&body=${this.state.contactMessage}`}><button type='button' className="mailto">Submit</button></a>
                      {/* <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span> */}

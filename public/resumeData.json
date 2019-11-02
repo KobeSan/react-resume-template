@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Baptiste Gislot",
-    "occupation":"Web Developer Student at Wild Code School",
-    "description":"",
+    "occupation":"Full Stack Web Developer Student at Wild Code School",
+    "description":"Currently studying web development in Nantes, im a looking for an internship starting in February 2020",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"After 5 years spent working in a nuclear power plant as an IT Project Manager, i had to see other things. So i went to live on the Reunion Island for a year where i did some volunteering. After that i wanted a new challenge, that's why i am now learning web development. I'm eager to start a career in this field !",
+    "contactmessage":"If you want to get in touch with me, just fill in this form.",
     "email": "baptiste.gislot@gmail.com",
     "phone": "06.81.43.82.36",
     "address":{
@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/BaptisteGislot",
         "className":"fa fa-twitter"
       },
       {
@@ -35,19 +35,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Caen",
         "degree":"Associate's Degree in network and telecommunications",
         "graduated":"Jully 2011",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"IP Networks / Electronics / Java Programming / Unix systems / Optical Fiber & Copper networks / Servers, firewalls and switches configuration"
       },
       {
         "school":"Jean Guehenno High School",
         "degree":"High school degree in science with honors",
         "graduated":"June 2009",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"During the final year, with my team we made a robot that competed in the national robotic's cup"
       }
     ],
     "work":[
@@ -55,13 +55,13 @@
         "company":"Omexom",
         "title":"Project Manager",
         "years":"March 2014 - December 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"As an IT project manager i led various projects such as : TOIP server relocation without service break / renovation of ancient network structure / Installation of a 4G antenna / DSLAM installation / Elaboration of the user's network... "
       },
       {
         "company":"Cotral",
         "title":"IT Manager",
         "years":"March 2011 - Jully 2011",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Load balancing scripts / Daily data backup / User assistance / work station installation..."
       }
     ],
     "skills":[
