@@ -35,7 +35,7 @@ class Contact extends Component {
 
             <div className="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+               <h1><span>Restons en contact.</span></h1>
 
             </div>
 
@@ -64,7 +64,7 @@ class Contact extends Component {
                   </div> */}
 
                   <div>
-						   <label htmlFor="contactSubject">Subject</label>
+						   <label htmlFor="contactSubject">Sujet </label>
 						   <input type="text" value={this.state.subject} size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>
                   </div>
 
@@ -74,7 +74,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <a target='_blank' href={`mailto:${email}?subject=${this.state.contactSubject}&body=${this.state.contactMessage}`}><button type='button' className="mailto">Submit</button></a>
+                     <a target='_blank' href={`mailto:${email}?subject=${this.state.contactSubject}&body=${this.state.contactMessage}`}><button type='button' className="mailto">Envoyer</button></a>
                      {/* <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span> */}
@@ -92,7 +92,7 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Téléphone et adresse</h4>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />

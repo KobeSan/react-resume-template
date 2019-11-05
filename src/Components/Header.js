@@ -5,7 +5,9 @@ class Header extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
+      var phrase1 = this.props.data.phrase1;
       var occupation= this.props.data.occupation;
+      var phrase2 = this.props.data.phrase2;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
       var networks= this.props.data.social.map(function(network){
@@ -22,10 +24,10 @@ class Header extends Component {
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">About</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+            <li className="current"><a className="smoothscroll" href="#home">Accueil</a></li>
+            <li><a className="smoothscroll" href="#about">A propos</a></li>
+	         <li><a className="smoothscroll" href="#resume">CV</a></li>
+            <li><a className="smoothscroll" href="#portfolio">Mes Projets</a></li>
             {/*<li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>*/}
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
@@ -34,8 +36,8 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a <span>{occupation}</span> based in {city}. {description}.</h3>
+            <h1 className="responsive-headline">{name}</h1>
+            <h3>{phrase1} <span>{occupation}</span> {phrase2} {city}. {description}.</h3>
             <hr />
             <ul className="social">
                {networks}
