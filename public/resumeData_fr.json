@@ -133,6 +133,12 @@
         "category":"Un jeu réalisé avec Phaser lors d'un Hackaton de 24h avec un équipe de 5 personnes.",
         "image":"vampire.png",
         "url":"https://github.com/KobeSan/Hackaton_2019_PhaserGame"
+      },
+      {
+        "title":"Système Solaire",
+        "category":"Système solaire réalisé avec React et THREEjs.",
+        "image":"solarsystem.jpg",
+        "url":"https://github.com/KobeSan/solar-system"
       }
     ]
   },
