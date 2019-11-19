@@ -100,7 +100,7 @@
       },
       {
         "name":"Phaser",
-        "url":"images/phaser.png",
+        "url":"./images/phaser.png",
         "size": "70px"
       },
       {
@@ -139,6 +139,12 @@
         "category":"Système solaire réalisé avec React et THREEjs.",
         "image":"solarsystem.jpg",
         "url":"https://github.com/KobeSan/solar-system"
+      },
+      {
+        "title":"Pokedex",
+        "category":"Un pokedex réalisé en Vanilla JS avec une API regroupant tous les pokémons",
+        "image":"pokemon.png",
+        "url":"https://github.com/KobeSan/pokedex"
       }
     ]
   },

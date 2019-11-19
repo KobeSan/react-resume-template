@@ -816,3 +816,15 @@ properly.
    justify-content: space-between;
 }
 
+.item-wrap {
+   position: relative;
+   height: 120px;
+   text-align: center;
+}
+
+.item-wrap img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
