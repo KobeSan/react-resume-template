@@ -43,7 +43,7 @@
         "school":"Wild Code School",
         "degree":"Devloppeur web full stack",
         "graduated":"Juin 2020",
-        "description":"HTML5 / CSS3 / Material-UI / Bootstrap / JavaScript (ES6) / React / Phaser / NodeJS / Socket.IO / MongoDB "
+        "description":"HTML5 / CSS3 / Material-UI / Bootstrap / JavaScript (ES6) / React / Phaser / three.js / NodeJS / Socket.IO / MySQL / MongoDB "
       },
       {
         "school":"Université de Caen",
@@ -126,7 +126,7 @@
         "title":"Application Météo",
         "category":"Une application météo réalisée avec React et utilisant l'API d'openweathermap.",
         "image":"weather.jpg",
-        "url":"https://github.com/KobeSan/meteo-app"
+        "url":"https://condescending-swanson-1eb7a4.netlify.com/"
       },
       {
         "title":"Vampire Run",
@@ -138,13 +138,19 @@
         "title":"Système Solaire",
         "category":"Système solaire réalisé avec React et THREEjs.",
         "image":"solarsystem.jpg",
-        "url":"https://github.com/KobeSan/solar-system"
+        "url":"https://hardcore-sammet-a455df.netlify.com/"
       },
       {
         "title":"Pokedex",
         "category":"Un pokedex réalisé en Vanilla JS avec une API regroupant tous les pokémons",
         "image":"pokemon.png",
-        "url":"https://github.com/KobeSan/pokedex"
+        "url":"https://kobesan.github.io/pokedex/"
+      },
+      {
+        "title":"TodoList",
+        "category":"Une TodoList faite avec React & Bootstrap pour utiliser l'API Context",
+        "image":"todo.png",
+        "url":"https://inspiring-payne-95421c.netlify.com/"
       }
     ]
   },
