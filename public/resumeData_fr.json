@@ -151,6 +151,12 @@
         "category":"Une TodoList faite avec React & Bootstrap pour utiliser l'API Context",
         "image":"todo.png",
         "url":"https://inspiring-payne-95421c.netlify.com/"
+      },
+      {
+        "title":"Chat App",
+        "category":"Une chatroom codée avec NodeJS Express et Socket.io",
+        "image":"chatapp.jpg",
+        "url":"https://github.com/KobeSan/chat-app"
       }
     ]
   },
