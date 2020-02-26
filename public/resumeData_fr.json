@@ -60,6 +60,12 @@
     ],
     "work":[
       {
+        "company":"Epyo",
+        "title":"Developpeur web",
+        "years":"February 2020 - June 2020",
+        "description":"Création d'applications front et de middlewares pour intéragir avec les solutions IoT d'Epyo."
+      },
+      {
         "company":"Omexom",
         "title":"Chef de projet IT",
         "years":"March 2014 - December 2018",
@@ -157,6 +163,12 @@
         "category":"Une chatroom codée avec NodeJS Express et Socket.io",
         "image":"chatapp.jpg",
         "url":"https://github.com/KobeSan/chat-app"
+      },
+      {
+        "title":"Mael.co",
+        "category":"Un réseau de psychologues en ligne avec messagerie instantanée.",
+        "image":"mael.png",
+        "url":"https://app.mael.co"
       }
     ]
   },
