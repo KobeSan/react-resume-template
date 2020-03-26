@@ -115,6 +115,16 @@
         "size": "70px"
       },
       {
+        "name":"GraphQL",
+        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png",
+        "size":"70px"
+      },
+      {
+        "name":"Apollo",
+        "url":"https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png",
+        "size":"70px"
+      },
+      {
         "name":"MongoDB",
         "url":"https://icongr.am/devicon/mongodb-original-wordmark.svg",
         "size": "70px"
@@ -123,6 +133,21 @@
         "name":"Git",
         "url": "https://icongr.am/devicon/git-original.svg",
         "size": "70px"
+      },
+      {
+        "name":"Debian",
+        "url":"https://icongr.am/devicon/debian-original-wordmark.svg",
+        "size":"70px"
+      },
+      {
+        "name":"Docker",
+        "url":"https://icongr.am/devicon/docker-original-wordmark.svg",
+        "size":"70px"
+      },
+      {
+        "name":"Nginx",
+        "url":"https://icongr.am/devicon/nginx-original.svg",
+        "size":"70px"
       }
     ]
   },
