@@ -1,211 +1,201 @@
 {
   "main": {
-    "name":"Baptiste Gislot",
+    "name": "Baptiste Gislot",
     "phrase1": "Je suis un ",
-    "occupation":"étudiant developpeur web full stack à la Wild Code School",
+    "occupation": "développeur web full stack junior",
     "phrase2": "basé sur",
-    "description":"Actuellement en train d'étudier le developpement web, je suis en recherche de stage pour Février 2020",
-    "image":"profil.jpg",
-    "bio":"Après avoir travaillé pendant 5 ans en tant que chef de projet IT dans une central nucléaire, j'ai eu envie de voir autre chose. C'est pourquoi je suis parti vivre sur l'ile de la Réunion pendant un an où j'ai pu faire du bénévolat. Après ça j'ai eu envie d'un nouveau challenge: apprendre le développement web ! J'ai hâte de commencer ma carrière dans ce domaine !",
-    "contactmessage":"Si vous voulez me contacter, remplissez le formulaire ci-dessous.",
+    "description": "Je suis à la recherche de mon premier emploi dans ce domaine !",
+    "image": "profil.jpg",
+    "bio": "Après avoir travaillé pendant 5 ans en tant que chef de projet IT dans une central nucléaire, j'ai eu envie de voir autre chose. C'est pourquoi je suis parti vivre sur l'ile de la Réunion pendant un an où j'ai pu faire du bénévolat. Après ça j'ai eu envie d'un nouveau challenge: apprendre le développement web ! J'ai hâte de commencer ma carrière dans ce domaine !",
+    "contactmessage": "Si vous voulez me contacter, remplissez le formulaire ci-dessous.",
     "email": "baptiste.gislot@gmail.com",
     "phone": "06.81.43.82.36",
-    "address":{
-      "street":"18 Boulevard de l'estuaire",
-      "city":"Nantes",
-      "state":"",
+    "address": {
+      "street": "18 Boulevard de l'estuaire",
+      "city": "Nantes",
+      "state": "",
       "zip": "44200"
     },
     "website": "https://www.baptistegislot.fr",
-    "resumedownload":"https://drive.google.com/file/d/1T3mB9O1yQ9xGSCC-nfHKgXXeOQwUEPKv",
-    "social":[
+    "resumedownload": "https://drive.google.com/file/d/1T3mB9O1yQ9xGSCC-nfHKgXXeOQwUEPKv",
+    "social": [
       {
-        "name":"twitter",
-        "url":"https://twitter.com/BaptisteGislot",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/BaptisteGislot",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/baptistegislot/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/baptistegislot/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/KobeSan/",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/KobeSan/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "gitlab",
+        "url": "https://gitlab.com/baptiste.gislot",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"Wild Code School",
-        "degree":"Devloppeur web full stack",
-        "graduated":"Juin 2020",
-        "description":"HTML5 / CSS3 / Material-UI / Bootstrap / JavaScript (ES6) / React / Phaser / three.js / NodeJS / Socket.IO / MySQL / MongoDB "
+        "school": "Wild Code School",
+        "degree": "Devloppeur web full stack",
+        "graduated": "Juin 2020",
+        "description": "HTML5 / CSS3 / Material-UI / Bootstrap / JavaScript (ES6) / React / Phaser / three.js / NodeJS / Socket.IO / MySQL / MongoDB "
       },
       {
-        "school":"Université de Caen",
-        "degree":"DUT Réseaux et Télécommunications",
-        "graduated":"Juillet 2011",
-        "description":"Réseaux IP / Electronique / Programmation Java / Systèmes Unix / Réseaux optique et cuivre / Configuration de serveurr, firewalls et switchs."
+        "school": "Université de Caen",
+        "degree": "DUT Réseaux et Télécommunications",
+        "graduated": "Juillet 2011",
+        "description": "Réseaux IP / Electronique / Programmation Java / Systèmes Unix / Réseaux optique et cuivre / Configuration de serveurr, firewalls et switchs."
       },
       {
-        "school":"Lycée Jean Guehenno",
-        "degree":"Bac Scientifique option sciences de l'ingénieur et anglais euro avec mention",
-        "graduated":"Juin 2009",
-        "description":"Pendant mon année de terminal, avec mon équipe nous avons créé un robot pour participer à la coupe nationale de robotique."
+        "school": "Lycée Jean Guehenno",
+        "degree": "Bac Scientifique option sciences de l'ingénieur et anglais euro avec mention",
+        "graduated": "Juin 2009",
+        "description": "Pendant mon année de terminal, avec mon équipe nous avons créé un robot pour participer à la coupe nationale de robotique."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Epyo",
-        "title":"Developpeur web",
-        "years":"February 2020 - June 2020",
-        "description":"Création d'applications front et de middlewares pour intéragir avec les solutions IoT d'Epyo."
+        "company": "Epyo",
+        "title": "Developpeur web",
+        "years": "Février 2020 - Avril 2020",
+        "description": "Création d'applications front et de middlewares pour intéragir avec les solutions IoT d'Epyo. Création d'interfaces avec VueJS pour des produits existant, mise en place d'une API en nodeJS et d'une interface web pour gérer du pick to light."
       },
       {
-        "company":"Omexom",
-        "title":"Chef de projet IT",
-        "years":"March 2014 - December 2018",
-        "description":"En tant que chef de projet IT j'ai mené à bien différent projets tels que: Déménagement d'un serveur TOIP sans coupure de service / Renovation d'un ancienne infrastructure réseaux avec continuité de service tout le temps des travaux / Installation d'une antenne 4G / Installation d'un DSLAM / Elaboration du réseau informatique tertiaire de la centrale... "
+        "company": "Omexom",
+        "title": "Chef de projet IT",
+        "years": "Mars 2014 - Decembre 2018",
+        "description": "En tant que chef de projet IT j'ai mené à bien différent projets tels que: Déménagement d'un serveur TOIP sans coupure de service / Renovation d'un ancienne infrastructure réseaux avec continuité de service tout le temps des travaux / Installation d'une antenne 4G / Installation d'un DSLAM / Elaboration du réseau informatique tertiaire de la centrale... "
       },
       {
-        "company":"Cotral",
-        "title":"Gestionnaire de parc informatique",
-        "years":"March 2011 - Jully 2011",
-        "description":"Création de scripts de load balancing / Sauvegarde journalière des données utilisateurs / Assistance à l'utilisateur / Installation de poste de travail..."
+        "company": "Cotral",
+        "title": "Gestionnaire de parc informatique",
+        "years": "Mars 2011 - Juillet 2011",
+        "description": "Création de scripts de load balancing / Sauvegarde journalière des données utilisateurs / Assistance à l'utilisateur / Installation de poste de travail..."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"HTML5",
-        "url":"https://icongr.am/devicon/html5-original-wordmark.svg",
+        "name": "HTML5",
+        "url": "https://icongr.am/devicon/html5-original-wordmark.svg",
         "size": "70px"
       },
       {
-        "name":"CSS3",
-        "url":"https://icongr.am/devicon/css3-original-wordmark.svg",
+        "name": "CSS3",
+        "url": "https://icongr.am/devicon/css3-original-wordmark.svg",
         "size": "70px"
       },
       {
-        "name":"Bootstrap",
-        "url":"https://icongr.am/devicon/bootstrap-plain-wordmark.svg",
+        "name": "Bootstrap",
+        "url": "https://icongr.am/devicon/bootstrap-plain-wordmark.svg",
         "size": "70px"
       },
       {
-        "name":"JavaScript",
-        "url":"https://icongr.am/devicon/javascript-original.svg",
+        "name": "JavaScript",
+        "url": "https://icongr.am/devicon/javascript-original.svg",
         "size": "70px"
       },
       {
-        "name":"React",
-        "url":"https://icongr.am/devicon/react-original-wordmark.svg",
+        "name": "React",
+        "url": "https://icongr.am/devicon/react-original-wordmark.svg",
         "size": "70px"
       },
       {
-        "name":"Phaser",
-        "url":"./images/phaser.png",
+        "name": "NodeJS",
+        "url": "https://icongr.am/devicon/nodejs-original-wordmark.svg",
         "size": "70px"
       },
       {
-        "name":"NodeJS",
-        "url":"https://icongr.am/devicon/nodejs-original-wordmark.svg",
+        "name": "MongoDB",
+        "url": "https://icongr.am/devicon/mongodb-original-wordmark.svg",
         "size": "70px"
       },
       {
-        "name":"GraphQL",
-        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png",
-        "size":"70px"
-      },
-      {
-        "name":"Apollo",
-        "url":"https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png",
-        "size":"70px"
-      },
-      {
-        "name":"MongoDB",
-        "url":"https://icongr.am/devicon/mongodb-original-wordmark.svg",
-        "size": "70px"
-      },
-      {
-        "name":"Git",
+        "name": "Git",
         "url": "https://icongr.am/devicon/git-original.svg",
         "size": "70px"
       },
       {
-        "name":"Debian",
-        "url":"https://icongr.am/devicon/debian-original-wordmark.svg",
-        "size":"70px"
+        "name": "Debian",
+        "url": "https://icongr.am/devicon/debian-original-wordmark.svg",
+        "size": "70px"
       },
       {
-        "name":"Docker",
-        "url":"https://icongr.am/devicon/docker-original-wordmark.svg",
-        "size":"70px"
+        "name": "Docker",
+        "url": "https://icongr.am/devicon/docker-original-wordmark.svg",
+        "size": "70px"
       },
       {
-        "name":"Nginx",
-        "url":"https://icongr.am/devicon/nginx-original.svg",
-        "size":"70px"
+        "name": "Nginx",
+        "url": "https://icongr.am/devicon/nginx-original.svg",
+        "size": "70px"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Application Météo",
-        "category":"Une application météo réalisée avec React et utilisant l'API d'openweathermap.",
-        "image":"weather.jpg",
-        "url":"https://condescending-swanson-1eb7a4.netlify.com/"
+        "title": "Application Météo",
+        "category": "Une application météo réalisée avec React et utilisant l'API d'openweathermap.",
+        "image": "weather.jpg",
+        "url": "https://condescending-swanson-1eb7a4.netlify.com/"
       },
       {
-        "title":"Vampire Run",
-        "category":"Un jeu réalisé avec Phaser lors d'un Hackaton de 24h avec un équipe de 5 personnes.",
-        "image":"vampire.png",
-        "url":"https://github.com/KobeSan/Hackaton_2019_PhaserGame"
+        "title": "Vampire Run",
+        "category": "Un jeu réalisé avec Phaser lors d'un Hackaton de 24h avec un équipe de 5 personnes.",
+        "image": "vampire.png",
+        "url": "https://github.com/KobeSan/Hackaton_2019_PhaserGame"
       },
       {
-        "title":"Système Solaire",
-        "category":"Système solaire réalisé avec React et THREEjs.",
-        "image":"solarsystem.jpg",
-        "url":"https://hardcore-sammet-a455df.netlify.com/"
+        "title": "Système Solaire",
+        "category": "Système solaire réalisé avec React et THREEjs.",
+        "image": "solarsystem.jpg",
+        "url": "https://hardcore-sammet-a455df.netlify.com/"
       },
       {
-        "title":"Pokedex",
-        "category":"Un pokedex réalisé en Vanilla JS avec une API regroupant tous les pokémons",
-        "image":"pokemon.png",
-        "url":"https://kobesan.github.io/pokedex/"
+        "title": "Pokedex",
+        "category": "Un pokedex réalisé en Vanilla JS avec une API regroupant tous les pokémons",
+        "image": "pokemon.png",
+        "url": "https://kobesan.github.io/pokedex/"
       },
       {
-        "title":"TodoList",
-        "category":"Une TodoList faite avec React & Bootstrap pour utiliser l'API Context",
-        "image":"todo.png",
-        "url":"https://inspiring-payne-95421c.netlify.com/"
+        "title": "TodoList",
+        "category": "Une TodoList faite avec React & Bootstrap pour utiliser l'API Context",
+        "image": "todo.png",
+        "url": "https://inspiring-payne-95421c.netlify.com/"
       },
       {
-        "title":"Chat App",
-        "category":"Une chatroom codée avec NodeJS Express et Socket.io",
-        "image":"chatapp.jpg",
-        "url":"https://github.com/KobeSan/chat-app"
+        "title": "Chat App",
+        "category": "Une chatroom codée avec NodeJS Express et Socket.io",
+        "image": "chatapp.jpg",
+        "url": "https://github.com/KobeSan/chat-app"
       },
       {
-        "title":"Mael.co",
-        "category":"Un réseau de psychologues en ligne avec messagerie instantanée.",
-        "image":"mael.png",
-        "url":"https://app.mael.co"
+        "title": "Mael.co",
+        "category": "Un réseau de psychologues en ligne avec messagerie instantanée.",
+        "image": "mael.png",
+        "url": "https://app.mael.co"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
