@@ -24,7 +24,7 @@ Of course, all of the code is there and nothing is hidden from you so if you wou
 ### 7. Enjoy your new Resume Website
 When you're all done, run `npm start` again and you'll see your new personal resume website! Congratulations!
 
-
+ 
 ## Credits
 ##### Udemy Course
 <a href="https://www.udemy.com/projects-in-reactjs-the-complete-react-learning-course/learn/v4/overview">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
