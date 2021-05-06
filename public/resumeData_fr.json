@@ -46,6 +46,12 @@
     "education": [
       {
         "school": "Wild Code School",
+        "degree": "Développeur et concepteur d'applications web et mobile avancé en alternance",
+        "graduated": "Octobre 2021",
+        "description": "React / NodeJS / Typescript / React Native / Docker / Micro-Services / Design patterns / TTD / CI-CD"
+      },
+      {
+        "school": "Wild Code School",
         "degree": "Devloppeur web full stack",
         "graduated": "Juin 2020",
         "description": "HTML5 / CSS3 / Material-UI / Bootstrap / JavaScript (ES6) / React / Phaser / three.js / NodeJS / Socket.IO / MySQL / MongoDB "
@@ -65,10 +71,22 @@
     ],
     "work": [
       {
+        "company": "Groupe Todd",
+        "title": "Développeur web fullstack",
+        "years": "Octobre 2020 - Aujourd'hui",
+        "description": "Maintenance et développement du site toddchrono.com, développement d'outils pour le back office. (VueJS / Django)"
+      },
+      {
+        "company": "Okolo",
+        "title": "Développeur web fullstack",
+        "years": "Juin 2020 - Aujourd'hui",
+        "description": "Création et développement d'okolo.fr avec 2 amis d'une plateforme de mise en relation entre producteurs et particuliers visant à promouvoir la consommation local et à faire découvrir la richesse de nos terroirs. (React / NodeJS) // En parallèle création d'une application mobile multi-plateforme d'admistration des boutiques pour les producteurs (React native)"
+      },
+      {
         "company": "Epyo",
         "title": "Developpeur web",
         "years": "Février 2020 - Avril 2020",
-        "description": "Création d'applications front et de middlewares pour intéragir avec les solutions IoT d'Epyo. Création d'interfaces avec VueJS pour des produits existant, mise en place d'une API en nodeJS et d'une interface web pour gérer du pick to light."
+        "description": "Création d'applications front et de middlewares pour intéragir avec les solutions IoT d'Epyo. Création d'interfaces avec VueJS pour des produits existant, mise en place d'une API en nodeJS et d'une interface web pour gérer du pick to light. (VueJS / NodeJS)"
       },
       {
         "company": "Omexom",
@@ -86,75 +104,68 @@
     "skills": [
       {
         "name": "HTML5",
-        "url": "https://icongr.am/devicon/html5-original-wordmark.svg",
-        "size": "70px"
+        "icon": "devicon-html5-plain-wordmark colored"
       },
       {
         "name": "CSS3",
-        "url": "https://icongr.am/devicon/css3-original-wordmark.svg",
-        "size": "70px"
+        "icon": "devicon-css3-plain-wordmark colored"
       },
       {
         "name": "Bootstrap",
-        "url": "https://icongr.am/devicon/bootstrap-plain-wordmark.svg",
-        "size": "70px"
+        "icon": "devicon-bootstrap-plain-wordmark colored"
       },
       {
         "name": "JavaScript",
-        "url": "https://icongr.am/devicon/javascript-original.svg",
-        "size": "70px"
+        "icon": "devicon-javascript-plain colored"
       },
       {
         "name": "React",
-        "url": "https://icongr.am/devicon/react-original-wordmark.svg",
-        "size": "70px"
+        "icon": "devicon-react-original-wordmark colored"
+      },
+      {
+        "name": "VueJS",
+        "icon": "devicon-vuejs-plain-wordmark colored"
       },
       {
         "name": "NodeJS",
-        "url": "https://icongr.am/devicon/nodejs-original-wordmark.svg",
-        "size": "70px"
+        "icon": "devicon-nodejs-plain colored"
       },
       {
-        "name": "MongoDB",
-        "url": "https://icongr.am/devicon/mongodb-original-wordmark.svg",
-        "size": "70px"
+        "name": "Python",
+        "icon": "devicon-python-plain-wordmark colored"
+      },
+      {
+        "name": "Django",
+        "icon": "devicon-django-plain-wordmark colored"
+      },
+      {
+        "name": "GraphQL",
+        "icon": "devicon-graphql-plain-wordmark colored"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "devicon-postgresql-plain-wordmark colored"
       },
       {
         "name": "Git",
-        "url": "https://icongr.am/devicon/git-original.svg",
-        "size": "70px"
+        "icon": "devicon-git-plain colored"
       },
       {
         "name": "Debian",
-        "url": "https://icongr.am/devicon/debian-original-wordmark.svg",
-        "size": "70px"
+        "icon": "devicon-debian-plain-wordmark colored"
       },
       {
         "name": "Docker",
-        "url": "https://icongr.am/devicon/docker-original-wordmark.svg",
-        "size": "70px"
+        "icon": "devicon-docker-plain-wordmark colored"
       },
       {
         "name": "Nginx",
-        "url": "https://icongr.am/devicon/nginx-original.svg",
-        "size": "70px"
+        "icon": "devicon-nginx-original-wordmark colored"
       }
     ]
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "Application Météo",
-        "category": "Une application météo réalisée avec React et utilisant l'API d'openweathermap.",
-        "image": "weather.jpg",
-        "url": "https://condescending-swanson-1eb7a4.netlify.com/"
-      },
-      {
-        "title": "Vampire Run",
-        "category": "Un jeu réalisé avec Phaser lors d'un Hackaton de 24h avec un équipe de 5 personnes.",
-        "image": "vampire.png",
-        "url": "https://github.com/KobeSan/Hackaton_2019_PhaserGame"
-      },
       {
         "title": "Système Solaire",
         "category": "Système solaire réalisé avec React et THREEjs.",
@@ -168,10 +179,10 @@
         "url": "https://kobesan.github.io/pokedex/"
       },
       {
-        "title": "TodoList",
+        "title": "Okolo.fr",
         "category": "Une TodoList faite avec React & Bootstrap pour utiliser l'API Context",
-        "image": "todo.png",
-        "url": "https://inspiring-payne-95421c.netlify.com/"
+        "image": "logo_okolo_text.png",
+        "url": "https://www.okolo.fr"
       },
       {
         "title": "Chat App",
@@ -184,18 +195,6 @@
         "category": "Un réseau de psychologues en ligne avec messagerie instantanée.",
         "image": "mael.png",
         "url": "https://app.mael.co"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
